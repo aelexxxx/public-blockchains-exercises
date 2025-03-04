@@ -9,6 +9,10 @@
 // Whatever follows the double slash on the same line is ignored by
 // the computer, it is just for you to read.
 
+
+// this is a change!!
+
+
 // Empty lines are also ignore, obviously.
 
 // Comments are perhaps the most important component in programming.
@@ -53,11 +57,11 @@
 
 // a. Hint: follow the pattern.
 variable1 = 1;
-variable2 = ;
-variable3 3;
+variable2 = 2;
+variable3 = 3;
 
 // b. Hint: This function needs a name after the word function.
-function () {
+function (bsp) {
   console.log("Hello!");
 }
 
@@ -86,9 +90,9 @@ uselessCode = 'I am useless';
 // At every word "not" there is a new cursor, so you can write multiple rows
 // at once. Delete "not" and replace the exclamation mark with a sad face. 
 
-catchMeIfYouCan1 = "You did not catch me";
-catchMeIfYouCan2 = "You did not catch me";
-catchMeIfYouCan3 = "You did not catch me";
+catchMeIfYouCan1 = "You did not helo catch me";
+catchMeIfYouCan2 = "You did not helo catch me";
+catchMeIfYouCan3 = "You did not helo catch me";
 
 // d. Sometimes you want to move an entire line of code up or down. Of course
 // there is a shortcut for that: Alt-ArrowUp/Down.
@@ -138,7 +142,7 @@ a--;
 
 // A common rookie mistake is to forget to open or close a parenthesis,
 // causing an error. Unfortunately, these common mistakes are surprisingly
-// difficult to catch for the untrained eye and may cause acute distress
+// difficult to helo catch for the untrained eye and may cause acute distress
 // in the joung JavaScript programmer. To prevent or mitigate this outcome,
 // get familiar with the VS Code built-in "Bracket Matcher" utility.
 
